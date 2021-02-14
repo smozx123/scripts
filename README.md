@@ -6,13 +6,6 @@
 
 TG讨论组： [@hijkclub](https://t.me/hijkclub)
 
-Youtube频道：<https://www.youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ>
-
-联系邮箱：hijk.pw@protonmail.ch
-
-
-> **PS**： 本站所有文章和Github上所有脚本均可随意转载和修改使用，无任何约束，无需附上原文链接和本人名字
-
 ## 一键脚本
 
 [本站脚本资源汇总](https://v2raytech.com/script-collection/)
@@ -221,6 +214,4 @@ Youtube频道：<https://www.youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ>
 
 ## 捐赠
 
-BTC: 1ND1Gg7oEQCNVPyHVoAaq1sM9Ee3XLJZQG
 
-ETH: 0x3921dc87110467324A01e1113E6aFa3c8DCD865D
